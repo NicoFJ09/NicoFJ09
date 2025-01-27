@@ -55,7 +55,7 @@ I'm a passionate software developer from Costa Rica, constantly pushing the boun
     </a>
   </div>
 
-  <h4>Tools & Technologies</h4>
+  <h4>Tools & others</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
