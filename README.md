@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&color=D5CEC1&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey+there!+👋;+I'm+Nick+Florez!;Welcome+to+my+GitHub!;" />
-</h1>
 
 <h3 align="center">A passionate and constantly improving developer from Costa Rica, exploring technology to unlock endless possibilities</h3>
 
@@ -71,10 +68,6 @@
 <br/>
 <hr/>
 <hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&color=D5CEC1&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Reach+me+out+and+let's+connect!👋;" />
-</h3>
 
 <br/>
 <hr/>
