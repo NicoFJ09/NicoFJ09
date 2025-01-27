@@ -1,15 +1,11 @@
 <h3 align="center">A passionate and constantly improving developer from Costa Rica, exploring technology to unlock endless possibilities</h3>
 
-<br/>
-
 <p align="center">
     ✍️ Currently studying **Computer Engineering** at the **Technological Institute of Costa Rica**.<br>
     🖥️ Diving deep into **Cloud Computing** and **Software Development**.<br>
     🛠️ Working on exciting projects like **FitoApp** and open-source contributions.<br>
     🚀 Focused on growth, both as a developer and as an individual.
 </p>
-
-<br/>
 
 <p align="center">
   <a href="mailto:florezjnicolas@gmail.com">
@@ -20,10 +16,7 @@
   </a>
 </p>
 
-<br/>
-
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<br/>
 <p align="center">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -62,18 +55,3 @@
       <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
     </a>
 </p>
-
-<br/>
-
-<h2 align="center">✒️ Learning ✒️</h2>
-<br/>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=cloud,aws,git" />
-</p>
-
-<br/>
-<hr/>
-<hr/>
-
-<br/>
-<hr/>
