@@ -77,14 +77,16 @@ I'm a passionate software developer from Costa Rica, constantly pushing the boun
 
 ### 📫 Let's Connect!
 
-<p align="center">
-  <a href="mailto:florezjnicolas@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48" style="border-radius: 50%; margin: 0 10px;"/>
-  </a>
-  <a href="https://discord.com/users/nicof0906" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="48" height="48" style="border-radius: 50%; margin: 0 10px;"/>
-  </a>
-</p>
+<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 15px; display: inline-block; margin: 20px auto;">
+  <div style="display: flex; justify-content: center; gap: 40px;">
+    <a href="mailto:florezjnicolas@gmail.com" style="transition: transform 0.3s ease-in-out;">
+      <img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48" style="border-radius: 50%; filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1)); &:hover { transform: scale(1.2); }"/>
+    </a>
+    <a href="https://discord.com/users/nicof0906" target="_blank" style="transition: transform 0.3s ease-in-out;">
+      <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="48" height="48" style="border-radius: 50%; filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1)); &:hover { transform: scale(1.2); }"/>
+    </a>
+  </div>
+</div>
 ---
 
 <p align="center">
