@@ -8,14 +8,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate software developer from Costa Rica, constantly pushing the boundaries of what's possible in technology. With a strong foundation in Computer Engineering and an insatiable curiosity for innovation, I'm on a journey to create impactful solutions that make a difference.
+I'm a **passionate software developer** from **Costa Rica**, constantly pushing the boundaries of what's possible in technology. With a strong foundation in **Computer Engineering** and an insatiable curiosity for **innovation**, I'm on a journey to create **impactful solutions** that make a difference.
 
 - 📚 Currently pursuing my **Computer Engineering** degree at the **Technological Institute of Costa Rica (ITCR)**
 - 🌱 Diving deep into **Cloud Computing** and **Software Development**
-- 🤖 Fascinated by the intersection of software and robotics
-- 🔍 Always seeking new challenges and opportunities to grow
-- 💡 Committed to continuous learning and professional development
-- 🤝 Open to collaboration on innovative projects
+- 🤖 Fascinated by the intersection of **Software** and **Robotics**
+- 🔍 Always seeking new **challenges** and opportunities to **grow**
+- 💡 Committed to **continuous learning** and **professional development**
+- 🤝 Open to collaboration on **innovative projects**
 
 ### 🛠️ Technical Skills
 
