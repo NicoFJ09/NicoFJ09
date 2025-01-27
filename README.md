@@ -1,4 +1,4 @@
-# Hello everyone! I'm Nicolás Florez. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h2> Hello everyone! I'm Nicolás Florez. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 A passionate and constantly improving developer from Costa Rica. I'm diving deep into Cloud Computing and Software Development, working on exciting projects and continuously seeking to expand my skills.
 
@@ -54,16 +54,9 @@ A passionate and constantly improving developer from Costa Rica. I'm diving deep
 
 <p align="center">
   <a href="mailto:florezjnicolas@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://discord.com/users/nicof0906" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
-<style>
-  body {
-    background-color: black;
-    color: white;
-  }
-</style>
