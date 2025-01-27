@@ -78,17 +78,13 @@ I'm a passionate software developer from Costa Rica, constantly pushing the boun
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:florezjnicolas@gmail.com" style="text-decoration: none;">
-    <img src="https://custom-icon-badges.demolab.com/badge/-florezjnicolas@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white"/>
+  <a href="mailto:florezjnicolas@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48" style="border-radius: 50%; margin: 0 10px;"/>
+  </a>
+  <a href="https://discord.com/users/nicof0906" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="48" height="48" style="border-radius: 50%; margin: 0 10px;"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://discord.com/users/nicof0906" target="_blank" style="text-decoration: none;">
-    <img src="https://custom-icon-badges.demolab.com/badge/-nicof0906-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
