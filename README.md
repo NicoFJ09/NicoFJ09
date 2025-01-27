@@ -70,14 +70,6 @@
 
 <br/>
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/nickflorez/nickflorez/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-
-<br/><br/>
 <hr/>
 
 <h3 align="center">
