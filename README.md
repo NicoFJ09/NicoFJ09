@@ -86,6 +86,7 @@ I'm a passionate software developer from Costa Rica, constantly pushing the boun
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
