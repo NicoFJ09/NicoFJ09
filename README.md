@@ -20,7 +20,7 @@ I'm a passionate software developer from Costa Rica, constantly pushing the boun
 ### 🛠️ Technical Skills
 
 <p align="center">
-  <h4>Languages & Frameworks</h4>
+  <h4>Languages</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
