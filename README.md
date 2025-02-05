@@ -34,6 +34,9 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+    </a>
   </div>
 
   <h4>Web Technologies</h4>
