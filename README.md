@@ -70,9 +70,9 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
 </p>
 
 ### 📊 GitHub Stats
-<div align="center">
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NicoFJ09&theme=soft-green" alt="NicoFJ09" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoFJ09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  /></p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoFJ09&theme=soft-green" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoFJ09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" alt="Top Languages" height="150"/>
 </div>
 
 ### 📫 Let's Connect!
