@@ -53,7 +53,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
   </div>
 
   <h4>Tools & others</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </a>
@@ -63,8 +63,16 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
     </a>
-  </div>
-</p>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+    </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
+    </a>
+</div>
 
 ### 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
