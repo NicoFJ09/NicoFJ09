@@ -57,7 +57,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
       <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
     </a>
   </div>
 
