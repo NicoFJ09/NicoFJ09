@@ -89,7 +89,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
   <a href="https://git.io/streak-stats" style="display: flex; align-items: center;">
     <img src="https://github-readme-streak-stats-mu-sandy.vercel.app?user=NicoFJ09&theme=merko" 
          alt="GitHub Streak" 
-         style="height: 120px; object-fit: contain;" />
+         style="height: 150px; object-fit: contain;" />
   </a>
 
   <a href="https://github.com/NicoFJ09" style="display: flex; align-items: center;">
