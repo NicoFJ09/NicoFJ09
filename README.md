@@ -86,7 +86,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" style="margin-right: 50px;">
     <img src="https://github-readme-streak-stats-mu-sandy.vercel.app?user=NicoFJ09&theme=merko" 
          alt="GitHub Streak" 
          height="150" />
@@ -97,6 +97,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
          height="150" />
   </a>
 </div>
+
 ### 📫 Let's Connect!
 
 <p align="center">
