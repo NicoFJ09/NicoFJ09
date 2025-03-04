@@ -85,7 +85,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
 </p>
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 50px; max-width: 700px; margin: auto;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 200px; max-width: 700px; margin: auto;">
   <a href="https://git.io/streak-stats" style="display: flex; align-items: center;">
     <img src="https://github-readme-streak-stats-mu-sandy.vercel.app?user=NicoFJ09&theme=merko" 
          alt="GitHub Streak" 
