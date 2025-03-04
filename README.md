@@ -85,20 +85,18 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
 </p>
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; max-width: 700px; margin: auto;">
-  <a href="https://git.io/streak-stats" style="display: flex; align-items: center; margin-right: 25px;">
+<div align="center">
+  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-mu-sandy.vercel.app?user=NicoFJ09&theme=merko" 
          alt="GitHub Streak" 
-         style="height: 150px; object-fit: contain;" />
+         height="150" />
   </a>
-
-  <a href="https://github.com/NicoFJ09" style="display: flex; align-items: center; margin-left: 25px;">
+  <a href="https://github.com/NicoFJ09">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoFJ09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" 
          alt="Top Languages" 
-         style="height: 150px; object-fit: contain;" />
+         height="150" />
   </a>
 </div>
-
 ### 📫 Let's Connect!
 
 <p align="center">
