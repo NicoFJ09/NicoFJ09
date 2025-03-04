@@ -86,13 +86,11 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-mu-sandy.vercel.app?user=NicoFJ09&theme=merko" 
          alt="GitHub Streak" 
          height="150" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NicoFJ09">
+  &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoFJ09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" 
          alt="Top Languages" 
          height="150" />
