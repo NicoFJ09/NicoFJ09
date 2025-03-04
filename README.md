@@ -85,22 +85,14 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
 </p>
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: stretch; gap: 20px;">
-  <a href="https://git.io/streak-stats" style="display: flex; align-items: stretch;">
-    <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-      <img src="https://github-readme-streak-stats-mu-sandy.vercel.app?user=NicoFJ09&theme=merko" 
-           alt="GitHub Streak" 
-           style="height: 100%; object-fit: contain;" />
-    </div>
-  </a>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-mu-sandy.vercel.app?user=NicoFJ09&theme=merko" alt="GitHub Streak" /></a>
 
-  <a href="https://github.com/NicoFJ09" style="display: flex; align-items: stretch;">
-    <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoFJ09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" 
-           alt="Top Languages" 
-           style="height: 100%; object-fit: contain;" />
-    </div>
-  </a>
+<a href="https://github.com/NicoFJ09">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoFJ09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" 
+       alt="Top Languages" height="150"/>
+</a>
 </div>
 
 ### 📫 Let's Connect!
