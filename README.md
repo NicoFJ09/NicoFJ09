@@ -27,7 +27,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
 
   <h4>Web Technologies</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nextjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs&perline=6" />
   </a>
 
   <h4>Tools & others</h4>
