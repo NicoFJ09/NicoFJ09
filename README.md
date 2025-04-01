@@ -48,6 +48,7 @@ I'm a **passionate software developer** from **Costa Rica**, constantly pushing 
          height="150" />
   </a>
 </div>
+
 ### 📫 Let's Connect!
 
 <p align="center">
